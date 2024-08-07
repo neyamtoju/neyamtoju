@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neyam</h1>
 <h3 align="center">Full-Stack Web Developer from Bangladesh</h3>
-**neyamtoju/neyamtoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<--
+**neyamtoju/neyamtoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+-->
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...**LARAVEL**
