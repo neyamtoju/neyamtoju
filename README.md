@@ -1,31 +1,17 @@
 <h1 align="center">Hi 👋, I'm Neyam</h1>
 <h3 align="center">Full-Stack Web Developer from Bangladesh</h3>
-<!--
 **neyamtoju/neyamtoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyamtoju&label=Profile%20views&color=0e75b6&style=flat" alt="neyamtoju" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neyamtoju" alt="neyamtoju" /></a> </p>
--->
-
-
-
-
-- 🌱 I’m currently learning **MERN-Stack**
-
-- 💬 Ask me about **HTML, CSS and JavaScript**
-
-- ⚡ Fun fact **I like to play video games**
+- 🔭 I’m currently working on ...**LARAVEL**
+- 🌱 I’m currently learning ...**MERN-STACK DEVELOPMENT**
+- 👯 I’m looking to collaborate on ...**JavaScript**
+- 🤔 I’m looking for help with ...**WORDPRESS**
+- 💬 Ask me about ...**HTML, CSS & JavaScript**
+- 📫 How to reach me: ...**NOT YET**
+- 😄 Pronouns: ...**NOT YET**
+- ⚡ Fun fact: ...**NOT YET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +24,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neyamtoju&show_icons=true&locale=en&layout=compact" alt="neyamtoju" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neyamtoju&show_icons=true&locale=en" alt="neyamtoju" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neyamtoju&" alt="neyamtoju" /></p>
